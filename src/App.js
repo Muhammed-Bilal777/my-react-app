@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Added @fortawesome/free-solid-icons to check
+         Added 4 packegs loader gsap-trial loaders.css and react-loaders
         </p>
         <a
           className="App-link"
