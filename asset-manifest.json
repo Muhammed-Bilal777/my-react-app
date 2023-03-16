@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.f10134f1.css",
-    "main.js": "/my-react-app/static/js/main.e2c6d5e1.js",
+    "main.js": "/my-react-app/static/js/main.f31ccf9e.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/Bilal-logo.png": "/my-react-app/static/media/Bilal-logo.c78a6fe183ef10f4d518.png",
     "index.html": "/my-react-app/index.html",
     "main.f10134f1.css.map": "/my-react-app/static/css/main.f10134f1.css.map",
-    "main.e2c6d5e1.js.map": "/my-react-app/static/js/main.e2c6d5e1.js.map",
+    "main.f31ccf9e.js.map": "/my-react-app/static/js/main.f31ccf9e.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f10134f1.css",
-    "static/js/main.e2c6d5e1.js"
+    "static/js/main.f31ccf9e.js"
   ]
 }
