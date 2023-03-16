@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Added @fortawesome/free-svg-icons to check
+         Added @fortawesome/free-solid-icons to check
         </p>
         <a
           className="App-link"
