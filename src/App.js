@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Lovely Working fine everything
+         Added Emailjs/browser library to check
         </p>
         <a
           className="App-link"
