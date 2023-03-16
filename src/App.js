@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Awesome Working correctly and added gitHub action 
+          Lovely Working fine everything
         </p>
         <a
           className="App-link"
