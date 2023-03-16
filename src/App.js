@@ -3,9 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-       <h1>Hi This Bilal,startin project "WEB DEVELOPER "</h1>
-    </div>
+    <Routes>
+    <Route path="/" element={<Layout />}>
+       
+    </Route>
+  </Routes>
   );
 }
 
