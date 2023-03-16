@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Added Emailjs/browser library to check
+         Added animate.css library to check
         </p>
         <a
           className="App-link"
