@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Added 4 packegs loader gsap-trial loaders.css and react-loaders
+         Added All the packages now and lets start project now
         </p>
         <a
           className="App-link"
