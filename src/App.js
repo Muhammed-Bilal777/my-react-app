@@ -14,10 +14,10 @@ function App() {
           <Layout />
           <Sidebar />
            
-        <Routes path="" element={<Home />}>
+        <Routes >
            
-          <Route >
-             
+          <Route  >
+              
             <Route path='/' element={<Home />} />
             <Route path='/about/' element={<About />} />
             <Route path='/contact/' element={<Contact />} />
