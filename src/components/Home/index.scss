@@ -102,9 +102,10 @@
       animation-delay: 1s;
     animation-duration: 3s;  
     animation-fill-mode: forwards;
+    transform: matrix(0,1,1,0,0,0);
      @keyframes example {
       from {top: 0px;}
-      to {top: 200px; }}
+      to {top: 50px; }}
       }
     
       p{
@@ -135,7 +136,9 @@
       width: 279px;
       height: 267px;
       &:hover{
-        animation: none;
+        // animation: none;
+        transform: matrix(0,1,1,0,0,0);
+
       }
       p{
         font-size: 18px;
@@ -188,8 +191,11 @@
   
   @media screen and (max-width: 474px){
     .quotes-cantainer{
-      position: absolute;
-      bottom: 3%;
+      position: relative;
+      bottom: -6px;
+      &:hover{
+        transform: matrix(0,1,1,0,0,0);
+      }
       .quotes-cantainer{
         width: 241px;
       height: 252px;

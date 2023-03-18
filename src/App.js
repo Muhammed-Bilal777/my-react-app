@@ -11,11 +11,13 @@ function App() {
   return (
      <>    
      <Router>
-            <Layout />
+          <Layout />
           <Sidebar />
-        <Routes>
-          <Route>
-         
+           
+        <Routes path="" element={<Home />}>
+           
+          <Route >
+             
             <Route path='/' element={<Home />} />
             <Route path='/about/' element={<About />} />
             <Route path='/contact/' element={<Contact />} />

@@ -21,7 +21,7 @@ const Sidebar = () => {
   const [showNav, setShowNav] = useState(false);
 
   return (
-    <div className="nav-bar">
+    <div className="nav-bar add">
       <Link 
         className="logo"
         to="/"
