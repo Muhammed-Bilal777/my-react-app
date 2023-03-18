@@ -97,12 +97,16 @@
       bottom: 43%;
       padding: 20px 25px;
       animation: fadeIn 1s 1.8s backwards; 
+      .quotes-text{
+        text-align: center;
+         margin-top: 13%;
+      }
       &:hover{
         animation-name: example;
       animation-delay: 1s;
     animation-duration: 3s;  
     animation-fill-mode: forwards;
-    transform: matrix(0,1,1,0,0,0);
+    // transform: matrix(0,1,1,0,0,0);
      @keyframes example {
       from {top: 0px;}
       to {top: 50px; }}
@@ -118,6 +122,11 @@
           color: aqua;
           animation: fadeOut 1s 1.8s backwards; 
           animation-delay: 3s;
+          &:hover{
+            color: #FFD700;
+            box-shadow: #333;
+
+          }
         }
       }
       
@@ -135,13 +144,24 @@
       left: 12%;
       width: 279px;
       height: 267px;
+      .quotes-text{
+        text-align: center;
+         margin-top: 13%;
+      }
       &:hover{
         // animation: none;
-        transform: matrix(0,1,1,0,0,0);
-
+        // transform: matrix(0,1,1,0,0,0);
+      
       }
       p{
         font-size: 18px;
+        &:hover{
+          font-family: serif;
+          
+    color: #FFD700;
+     
+    text-transform: uppercase;
+        }
       }
     }
     .tags,
@@ -193,12 +213,17 @@
     .quotes-cantainer{
       position: relative;
       bottom: -6px;
-      &:hover{
-        transform: matrix(0,1,1,0,0,0);
-      }
+       
       .quotes-cantainer{
         width: 241px;
       height: 252px;
+      &:hover{
+        font-family: serif;
+    font-size: 21px;
+    color: #FFD700;
+    text-shadow: aliceblue -1px -2px;
+    text-transform: uppercase;
+      }
       }
     }
   }

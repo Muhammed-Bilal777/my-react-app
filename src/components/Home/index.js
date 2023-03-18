@@ -71,9 +71,14 @@ const Home = () => {
       <div className='quotes-cantainer'>
          <div className='quotes-text'>
               <p>
-              “We love what we do and we do what our clients love & 
-              work with great clients all over the world to create thoughtful and 
-              purposeful websites.”
+               "
+                  Do It Alone  ' <br/>
+                  Do It Broke  ' <br/>
+                  Do It Tired  ' <br/>
+                  Do It Scared  ' <br/>
+                  JUST DO IT'
+
+               "
 
               </p>
          </div>
