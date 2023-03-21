@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.65d54ef2.css",
-    "main.js": "/my-react-app/static/js/main.873eb049.js",
+    "main.css": "/my-react-app/static/css/main.3acd39c6.css",
+    "main.js": "/my-react-app/static/js/main.e9ca6a1a.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/Bilal-logo.png": "/my-react-app/static/media/Bilal-logo.c78a6fe183ef10f4d518.png",
     "static/media/helvetica-neu.ttf": "/my-react-app/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,12 +10,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/my-react-app/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/my-react-app/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-react-app/index.html",
-    "main.65d54ef2.css.map": "/my-react-app/static/css/main.65d54ef2.css.map",
-    "main.873eb049.js.map": "/my-react-app/static/js/main.873eb049.js.map",
+    "main.3acd39c6.css.map": "/my-react-app/static/css/main.3acd39c6.css.map",
+    "main.e9ca6a1a.js.map": "/my-react-app/static/js/main.e9ca6a1a.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d54ef2.css",
-    "static/js/main.873eb049.js"
+    "static/css/main.3acd39c6.css",
+    "static/js/main.e9ca6a1a.js"
   ]
 }
