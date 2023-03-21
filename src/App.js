@@ -11,14 +11,13 @@ function App() {
     <>
       <Router>
         <Layout />
-        <Sidebar />
+        
 
-        <Routes>
-           
-            <Route path="/" element={<Home />} />
+        <Routes path="/" element={<Sidebar />}>
+            <Route path="/my-react-app/" element={<Home />} />
+            <Route index element={<Home />} />
             <Route path="/about/" element={<About />} />
-            <Route path="/contact/" element={<Contact />} />
-           
+            <Route path="/contact/" element={<Contact />} /> 
         </Routes>
       </Router>
     </>
